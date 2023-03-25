@@ -1,6 +1,6 @@
-package org.example.child;
+package org.Seminar002.child;
 
-import org.example.parent.Diseaseable;
+import org.Seminar002.parent.Diseaseable;
 
 public class Human implements Diseaseable {
     private final String name;

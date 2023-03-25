@@ -1,7 +1,7 @@
-package org.example.child;
+package org.Seminar002.child;
 
-import org.example.parent.Animal;
-import org.example.parent.Speakable;
+import org.Seminar002.parent.Animal;
+import org.Seminar002.parent.Speakable;
 
 /**
  * Шуточный класс, в котором некий "человек"  наследует от животного его поведение и состояние.

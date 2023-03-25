@@ -1,4 +1,4 @@
-package org.example.parent;
+package org.Seminar002.parent;
 
 import java.util.ArrayList;
 import java.util.List;

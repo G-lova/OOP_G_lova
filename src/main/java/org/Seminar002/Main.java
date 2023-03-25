@@ -1,12 +1,12 @@
-package org.example;
+package org.Seminar002;
 
-import org.example.child.Cat;
-import org.example.child.Dog;
-import org.example.child.Duck;
-import org.example.child.HumanExtendsAnimal;
-import org.example.parent.Animal;
-import org.example.parent.Speakable;
-import org.example.parent.VeterinaryClinic;
+import org.Seminar002.child.Cat;
+import org.Seminar002.child.Dog;
+import org.Seminar002.child.Duck;
+import org.Seminar002.child.HumanExtendsAnimal;
+import org.Seminar002.parent.Animal;
+import org.Seminar002.parent.Speakable;
+import org.Seminar002.parent.VeterinaryClinic;
 
 public class Main {
     public static void main(String[] args) {

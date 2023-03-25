@@ -1,4 +1,4 @@
-package org.example.parent;
+package org.Seminar002.parent;
 
 public abstract class Animal implements Diseaseable {
     private String name;
